@@ -1,21 +1,24 @@
-## Hi Arik there 👋
+# Halo, Saya Wahab! 👋
 
-<!--
-**MasArik09/MasArik09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang mahasiswa **Sistem Informasi** yang antusias dalam pengembangan web dan pengolahan data. Saya senang membangun solusi digital yang efisien dan terus mengeksplorasi teknologi terbaru di dunia *cybersecurity* dan *data mining*.
 
-Here are some ideas to get you started:
+### 🚀 Tentang Saya
+- 🎓 Mahasiswa di **Telkom University**.
+- 💻 Fokus saat ini: **Full-stack Web Development** (Laravel, Flask) & **Data Science**.
+- 🛡️ Sedang mendalami: Keamanan siber dan *bug bounty*.
+- ♟️ Hobi: Bermain catur (Scandinavian Defense enthusiast) dan simulasi balap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+| Bidang | Teknologi |
+| :--- | :--- |
+| **Languages** | PHP, Python, JavaScript, SQL |
+| **Frameworks** | Laravel, Flask, Bootstrap, Tailwind |
+| **Data Science** | Pandas, Scikit-learn, Matplotlib |
+| **Tools & Ops** | Linux (Ubuntu, Kali), VMware, Git, Docker |
 
-### Top Languages in My Repositories📊 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasArik09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Statistik GitHub
+![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=MasArik09&show_icons=true&theme=radical)
+![Bahasa yang Paling Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=MasArik09&layout=compact&theme=radical)
 
-###
+---
+*“Terus belajar dan berkarya untuk membanggakan keluarga.”*
