@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: ...
 -->
 
-### Top Languages in My Repositories📊 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasArik09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Top Languages in My Repositories 📊 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasArik09&layout=compact)](https://github.com/MasArik09)
 
 ###
