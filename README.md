@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: ...
 -->
 
-### Top Languages in My Repositories 📊 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasArik09&layout=compact)](https://github.com/MasArik09)
+### Top Languages in My Repositories 📊
+
+<a href="https://github.com/MasArik09">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasArik09&layout=compact&hide_border=true&theme=dark" />
+</a>
 
 ###
