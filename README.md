@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: ...
 -->
 
-### GitHub Analytics 📊
+### My GitHub Analytics 📊
 
 <p align="center">
   <a href="https://github.com/MasArik09">
