@@ -29,5 +29,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MasArik09&theme=dark&hide_border=true"/>
 </p>
+<div align="center">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MasArik09&theme=github_dark" alt="Stats"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MasArik09&theme=github_dark" alt="Repos per Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MasArik09&theme=github_dark" alt="Most Commit Language"/>
+</div>
 
 ###
