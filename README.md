@@ -26,9 +26,14 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<br/>
+
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MasArik09&theme=dark&hide_border=true"/>
 </p>
+
+<br/><br/>
+
 <div align="center">
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MasArik09&theme=github_dark" alt="Stats"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MasArik09&theme=github_dark" alt="Repos per Language"/>
